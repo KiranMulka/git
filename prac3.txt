@@ -1,14 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-iam kiran
-=======
-=======
->>>>>>> branch2
-kiran
-1
-1
-1
-<<<<<<< HEAD
->>>>>>> branch2
-=======
->>>>>>> branch2
+hello friend
